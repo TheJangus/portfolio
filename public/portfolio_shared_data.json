@@ -1,18 +1,23 @@
 {
     "basic_info": {
-      "name": "Ursula Lopez",
+      "name": "Jason Angus",
       "titles": [ "Software Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/TheJangus",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
-        }
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/jason-angus/",
+          "class": "fab fa-linkedin"
+        },
+        // {
+        //   "name": "instagram",
+        //   "url": "https://www.instagram.com",
+        //   "class": "fab fa-instagram"
+        // }
       ],
       "image": "myProfile.jpg"
     },
